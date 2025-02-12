@@ -1,0 +1,16 @@
+com\example\shopping\model\Order.class
+com\example\shopping\controller\ProductController.class
+com\example\shopping\service\ProductService.class
+com\example\shopping\service\OrderService.class
+com\example\shopping\repository\ProductRepository.class
+com\example\shopping\controller\UserController.class
+com\example\shopping\repository\OrderRepository.class
+com\example\shopping\service\OrderItemService.class
+com\example\shopping\model\User.class
+com\example\shopping\service\UserService.class
+com\example\shopping\controller\OrderController.class
+com\example\shopping\model\OrderItem.class
+com\example\shopping\controller\OrderItemController.class
+com\example\shopping\model\Product.class
+com\example\shopping\repository\UserRepository.class
+com\example\shopping\repository\OrderItemRepository.class
